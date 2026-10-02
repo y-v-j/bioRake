@@ -123,8 +123,9 @@ The taxonomy (`~/.biorake/taxonomy.json` by default) ships with these categories
   `head_neck_oncology`, `endocrine_oncology`, `skin_oncology`,
   `bone_soft_tissue_oncology`, `ocular_oncology`
 
-Every cancer type in the NCI A–Z list at <https://www.cancer.gov/types> (kept in
-`cancer-types.txt`) is included and grouped by subspecialty, so a search
+Every cancer type in the National Cancer Institute (NCI) A–Z list of cancer
+types at <https://www.cancer.gov/types> is included and grouped by subspecialty
+(see *Data sources* below), so a search
 for "rectal cancer" also brings up papers on other GI cancers rather than every
 cancer paper. NCI's alternate forms are folded into one canonical term plus
 synonyms:
@@ -200,11 +201,18 @@ database file.
 - `biorake.py`: the full engine + CLI
 - `pyproject.toml`: package metadata (installs the `biorake` command)
 - `requirements.txt`: pip dependencies
-- `cancer-types.txt`: NCI cancer type names built into the default taxonomy
 - `custom_cancer_terminology_example.json` / `.csv`: sample external
   terminology files showing the format for section 6
 - `USER_GUIDE.md`: short walkthrough with terminal commands
 - `LICENSE`: MIT license
+
+## Data sources
+
+The cancer type names in the built-in taxonomy come from the National Cancer
+Institute's "Cancer Types" A–Z list, <https://www.cancer.gov/types> (National
+Cancer Institute, U.S. National Institutes of Health). The names were grouped into
+categories, and abbreviations and alternate forms were added as synonyms, for
+use in bioRake. NCI does not endorse this project.
 
 ## License
 

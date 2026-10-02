@@ -159,7 +159,7 @@ def normalize_term(term: str) -> str:
 # ==============================================================================
 #
 # Cancer types: every name in the NCI "Cancer Types" A-Z list
-# (https://www.cancer.gov/types, see cancer-types.txt) is included below,
+# (https://www.cancer.gov/types) is included below,
 # grouped into oncology subspecialty categories so that the "same broad
 # category" ranking tier relates e.g. "rectal cancer" to "anal cancer" rather
 # than to every cancer. NCI's inverted index forms ("Ependymoma, Childhood"),
