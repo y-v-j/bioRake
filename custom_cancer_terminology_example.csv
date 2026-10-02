@@ -1,0 +1,7 @@
+category,term,synonyms
+oncology,her2-positive breast cancer,her2+ breast cancer|her2 positive breast carcinoma
+oncology,triple-negative breast cancer,tnbc
+oncology,non-small cell lung cancer,nsclc
+oncology,immunotherapy,checkpoint inhibitor|immune checkpoint blockade
+hematologic_oncology,acute myeloid leukemia,aml
+hematologic_oncology,multiple myeloma,mm

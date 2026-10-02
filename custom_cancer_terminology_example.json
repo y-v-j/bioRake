@@ -1,0 +1,19 @@
+{
+  "oncology": {
+    "her2-positive breast cancer": ["her2+ breast cancer", "her2 positive breast carcinoma"],
+    "triple-negative breast cancer": ["tnbc"],
+    "non-small cell lung cancer": ["nsclc"],
+    "immunotherapy": ["checkpoint inhibitor", "immune checkpoint blockade"],
+    "programmed death-ligand 1": ["pd-l1"],
+    "progression-free survival": ["pfs"],
+    "overall survival": ["os"],
+    "complete response": ["cr"],
+    "tumor microenvironment": ["tme"]
+  },
+  "hematologic_oncology": {
+    "acute myeloid leukemia": ["aml"],
+    "chronic lymphocytic leukemia": ["cll"],
+    "multiple myeloma": ["mm"],
+    "car-t cell therapy": ["chimeric antigen receptor t-cell therapy"]
+  }
+}

@@ -1,0 +1,142 @@
+Acute Lymphoblastic Leukemia (ALL)
+Acute Myeloid Leukemia (AML)
+Adrenocortical Carcinoma
+AIDS-Related Lymphoma
+Anal Cancer
+Astrocytomas, Childhood
+Atypical Teratoid/Rhabdoid Tumor, Childhood
+Atypical Teratoid/Rhabdoid Tumor, Childhood, Central Nervous System
+Bile Duct Cancer
+Bladder Cancer
+Bone Cancer
+Brain Tumors
+Breast Cancer
+Bronchial Tumors
+Cancers of Childhood, Rare
+Carcinoma of Unknown Primary
+Cervical Cancer
+Childhood Cancers
+Childhood Cardiac Tumors Treatment
+Childhood Central Nervous System Germ Cell Tumors
+Childhood Extracranial Germ Cell Tumors
+Childhood Rhabdomyosarcoma
+Childhood Vascular Tumors
+Chordoma, Childhood
+Chronic Lymphocytic Leukemia (CLL)
+Chronic Myelogenous Leukemia (CML)
+Colorectal Cancer
+Craniopharyngioma, Childhood
+Diffuse Intrinsic Pontine Glioma (DIPG)
+Ductal Carcinoma In Situ (DCIS)
+Embryonal Tumors, Medulloblastoma and Other Central Nervous System, Childhood
+Endometrial Cancer
+Ependymoma, Childhood
+Esophageal Cancer
+Esthesioneuroblastoma
+Ewing Sarcoma
+Extracranial Germ Cell Tumor, Childhood
+Extragonadal Germ Cell Tumors
+Fallopian Tube Cancer
+Gallbladder Cancer
+Gastric (Stomach) Cancer
+Gastrointestinal Neuroendocrine Tumors
+Gastrointestinal Stromal Tumors (GIST)
+Germ Cell Tumor, Childhood
+Gestational Trophoblastic Disease
+Hairy Cell Leukemia
+Head and Neck Cancer
+Heart Tumors, Childhood
+Hepatocellular (Liver) Cancer
+Histiocytosis, Langerhans Cell
+Hodgkin Lymphoma
+Hypopharyngeal Cancer
+Intraocular Melanoma
+Islet Cell Tumors, Pancreatic Neuroendocrine Tumors
+Kaposi Sarcoma
+Kidney (Renal Cell) Cancer
+Langerhans Cell Histiocytosis
+Laryngeal Cancer
+Leukemia
+Lip and Oral Cavity Cancer
+Liver Cancer
+Lung Cancer
+Lymphoma
+Male Breast Cancer
+Medulloblastoma and Other CNS Embryonal Tumors, Childhood
+Melanoma
+Melanoma, Intraocular (Eye)
+Merkel Cell Carcinoma
+Mesothelioma
+Metastatic Cancer
+Metastatic Squamous Neck Cancer with Occult Primary
+Midline Tract Carcinoma With NUT Gene Changes
+Mouth Cancer
+Multiple Endocrine Neoplasia Syndromes
+Multiple Myeloma/Plasma Cell Neoplasms
+Mycosis Fungoides
+Myelodysplastic Syndromes
+Myelodysplastic/Myeloproliferative Neoplasms
+Myelogenous Leukemia, Chronic (CML)
+Myeloid Leukemia, Acute (AML)
+Myeloproliferative Neoplasms
+Nasal Cavity and Paranasal Sinus Cancer
+Nasopharyngeal Cancer
+Neuroblastoma
+Neuroendocrine Tumors (Gastrointestinal)
+Non-Hodgkin Lymphoma
+Non-Small Cell Lung Cancer
+Oral Cancer, Lip and Oral Cavity Cancer and Oropharyngeal Cancer
+Oropharyngeal Cancer
+Osteosarcoma
+Osteosarcoma and Undifferentiated Pleomorphic Sarcoma of Bone Treatment
+Ovarian Cancer
+Ovarian Germ Cell Tumors
+Pancreatic Cancer
+Pancreatic Neuroendocrine Tumors (Islet Cell Tumors)
+Papillomatosis (Childhood Laryngeal)
+Paraganglioma
+Paranasal Sinus and Nasal Cavity Cancer
+Parathyroid Cancer
+Penile Cancer
+Pharyngeal Cancer
+Pheochromocytoma
+Pituitary Tumor
+Plasma Cell Neoplasm/Multiple Myeloma
+Pleuropulmonary Blastoma
+Pregnancy and Breast Cancer
+Pregnancy and Hodgkin Lymphoma
+Pregnancy and Non-Hodgkin Lymphoma
+Primary Central Nervous System (CNS) Lymphoma
+Primary CNS Lymphoma
+Primary Peritoneal Cancer
+Prostate Cancer
+Pulmonary Inflammatory Myofibroblastic Tumor
+Rare Cancers of Childhood
+Rectal Cancer
+Recurrent Cancer
+Renal Cell (Kidney) Cancer
+Retinoblastoma
+Rhabdomyosarcoma, Childhood
+Salivary Gland Cancer
+Sézary Syndrome
+Skin Cancer
+Small Cell Lung Cancer
+Small Intestine Cancer
+Soft Tissue Sarcoma
+Squamous Neck Cancer with Occult Primary, Metastatic
+Stomach (Gastric) Cancer
+Testicular Cancer
+Thymoma and Thymic Carcinoma
+Thymus Cancer
+Thyroid Cancer
+Tracheobronchial Tumors
+Transitional Cell Cancer of the Renal Pelvis and Ureter
+Unknown Primary, Carcinoma of
+Ureter and Renal Pelvis, Transitional Cell Cancer
+Urethral Cancer
+Uterine Cancer, Endometrial
+Uterine Sarcoma
+Vaginal Cancer
+Vascular Tumors
+Vulvar Cancer
+Wilms Tumor and Other Childhood Kidney Tumors
